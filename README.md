@@ -51,6 +51,8 @@ python helmetandnumberplate.py
 ```bash
 python speed_detection.py
 ```
+---
+
 ## 📌 Use Cases
 - Smart traffic surveillance  
 - Automated traffic rule enforcement  
@@ -97,4 +99,5 @@ Traffic_Violation_Project/
 ├── Bike_Helmet_Detection_model_training.ipynb
 ├── requirements.txt
 └── README.md
+
 
