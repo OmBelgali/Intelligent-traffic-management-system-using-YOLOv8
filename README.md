@@ -35,6 +35,10 @@ The system combines deep learning–based object detection with multi-object tra
 
 ## ▶ How to Run
 
+### Install CUDA-enabled PyTorch (If GPU is Available)
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
@@ -93,3 +97,4 @@ Traffic_Violation_Project/
 ├── Bike_Helmet_Detection_model_training.ipynb
 ├── requirements.txt
 └── README.md
+
