@@ -91,7 +91,6 @@ Traffic_Violation_Project/
 ├── Weights/
 │   ├── best.pt                # Helmet detection model
 │   ├── number_plate.pt        # Number plate detection model
-│   ├── numberplate.pt         # Alternate plate model
 │   └── yolov8s.pt             # Vehicle detection model
 │
 ├── helmetandnumberplate.py    # Helmet + number plate detection
@@ -99,5 +98,6 @@ Traffic_Violation_Project/
 ├── Bike_Helmet_Detection_model_training.ipynb
 ├── requirements.txt
 └── README.md
+
 
 
